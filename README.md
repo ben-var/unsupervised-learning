@@ -1,4 +1,4 @@
-# Unsupervised Learning and Dimensionality Reduction for Bank Marketing and Letter Classification
+# Reducing Data Dimensionality using Unsupervised Learning on Bank Customer and Letter Classification Datasets
 
 This repository contains a detailed analysis on two different datasets. The analysis is in the analysis.pdf file.
 
